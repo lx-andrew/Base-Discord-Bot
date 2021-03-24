@@ -1,0 +1,6 @@
+Open the config.json file and add your bot token.
+
+Run the update.bat file to install all dependencies.
+
+Then run the start.bat
+
